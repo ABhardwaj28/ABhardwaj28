@@ -67,3 +67,31 @@
 </div>
 
 <br>
+
+<!-- GITHUB ACTIVITY -->
+
+<br>
+
+<div align="center">
+
+<sub>GITHUB ACTIVITY</sub>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ABhardwaj28&show_icons=true&hide_border=true&bg_color=00000000&title_color=A8D961&text_color=7F897F&icon_color=A8D961&include_all_commits=true"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://streak-stats.demolab.com?user=ABhardwaj28&hide_border=true&background=00000000&ring=A8D961&fire=A8D961&currStreakLabel=7F897F&sideLabels=7F897F&currStreakNum=F2F4F2&sideNums=F2F4F2&dates=535B55"
+  height="165"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br>

@@ -31,11 +31,7 @@
   src="https://skillicons.dev/icons?i=python,java,js,html,css,sql&perline=6"
   height="38"
   alt="Languages"
-/>
-
-<br>
-
-<img
+/><img
   src="https://skillicons.dev/icons?i=pandas,numpy,fastapi,mysql&perline=4"
   height="38"
   alt="Data and APIs"

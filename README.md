@@ -28,25 +28,9 @@
 <br>
 
 <img
-  src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"
-  height="32"
-  alt="Languages"
-/>
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=pandas,numpy,fastapi,mysql"
-  height="32"
-  alt="Data and APIs"
-/>
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"
-  height="32"
-  alt="Tools"
+  src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,pandas,numpy,fastapi,mysql,git,github,vscode,docker,linux&perline=15"
+  height="38"
+  alt="Tech Stack"
 />
 
 <br>

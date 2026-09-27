@@ -238,3 +238,23 @@ Programming Workshops
 </div>
 
 <br>
+
+<!-- CURRENTLY BUILDING -->
+
+<br>
+
+<div align="center">
+
+<sub>CURRENTLY BUILDING</sub>
+
+<br><br>
+
+<code>F1 telemetry & performance analytics</code>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<code>AI applications</code>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<code>open source</code>
+
+</div>
+
+<br>

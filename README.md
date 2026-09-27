@@ -199,3 +199,42 @@ View project →
 </div>
 
 <br>
+<!-- ACHIEVEMENTS -->
+
+<br>
+
+<div align="center">
+
+<sub>ACHIEVEMENTS</sub>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<b>🏆 1st</b><br>
+Coding Competition
+</td>
+
+<td align="center" width="25%">
+<b>🤖 2nd</b><br>
+AI Chatbot Competition
+</td>
+
+<td align="center" width="25%">
+<b>⭐ 5-Star</b><br>
+HackerRank Python
+</td>
+
+<td align="center" width="25%">
+<b>🎓</b><br>
+Programming Workshops
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>

@@ -16,3 +16,29 @@
 </div>
 
 <br>
+
+<br>
+
+<div align="center">
+
+<sub>WHAT I WORK WITH</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" height="38" alt="Languages">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,fastapi,streamlit,mysql" height="38" alt="Data and APIs">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" height="38" alt="Tools">
+
+<br><br>
+
+<sub>Telemetry · Data · APIs · Simulation · Software</sub>
+
+</div>
+
+<br>

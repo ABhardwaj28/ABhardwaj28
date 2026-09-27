@@ -94,7 +94,7 @@
 
 <br>
 
-<!-- FEATURED PROJECTS -->
+<!-- SELECTED PROJECTS -->
 
 <br>
 
@@ -104,13 +104,79 @@
 
 <br><br>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏎️ F1 Analytics Dashboard
+
+Motorsport analytics dashboard built around race telemetry, lap-time data, driver comparisons, tyre strategies and track information.
+
+**Python · FastF1 · Streamlit**
+
+<br>
+
 <a href="https://github.com/ABhardwaj28/F1-project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ABhardwaj28&repo=F1-project&hide_border=true&bg_color=00000000&title_color=A8D961&text_color=7F897F&icon_color=A8D961"
-    width="420"
-    alt="F1 Analytics Dashboard"
-  />
+View project →
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Space Chatbot
+
+AI-powered space exploration chatbot built to answer questions about astronomy and the cosmos.
+
+**Python · Dialogflow · REST API**
+
+<br>
+
+<a href="https://github.com/ABhardwaj28/Space-Chatbot">
+View project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 Diffraction Simulation
+
+Interactive physics simulation for estimating hair thickness using diffraction and computational visualization.
+
+**Python · Physics · Simulation**
+
+<br>
+
+<a href="https://github.com/ABhardwaj28/Diffraction-Simulation">
+View project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+Personal developer portfolio showcasing projects, technical work and achievements.
+
+**HTML · CSS · JavaScript**
+
+<br>
+
+<a href="https://github.com/ABhardwaj28/Portfolio">
+View project →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 

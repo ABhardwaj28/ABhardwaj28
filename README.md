@@ -251,9 +251,9 @@ Programming Workshops
 
 <code>F1 telemetry & performance analytics</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<code>AI applications</code>
+<code>AI Applications</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<code>open source</code>
+<code>Open Source</code>
 
 </div>
 

@@ -15,8 +15,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="./assets/github-header.gif" width="100%">

@@ -70,8 +70,6 @@
 
 <!-- GITHUB ACTIVITY -->
 
-<br>
-
 <div align="center">
 
 <sub>GITHUB ACTIVITY</sub>
@@ -79,7 +77,7 @@
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ABhardwaj28&show_icons=true&hide_border=true&bg_color=00000000&title_color=A8D961&text_color=7F897F&icon_color=A8D961&include_all_commits=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABhardwaj28&theme=github_dark"
   height="165"
   alt="GitHub Stats"
 />

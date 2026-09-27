@@ -28,19 +28,23 @@
 <br>
 
 <img
-  src="https://skillicons.dev/icons?i=python,java,js,html,css,sql&perline=6"
+  src="https://skillicons.dev/icons?i=python,java,js,html,css&perline=5"
   height="38"
   alt="Languages"
-/><img
-  src="https://skillicons.dev/icons?i=pandas,numpy,fastapi,mysql&perline=4"
-  height="38"
-  alt="Data and APIs"
 />
 
 <br>
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&perline=5"
+  src="https://skillicons.dev/icons?i=sql,pandas,numpy,fastapi,mysql&perline=5"
+  height="38"
+  alt="Data & Technologies"
+/>
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"
   height="38"
   alt="Tools"
 />

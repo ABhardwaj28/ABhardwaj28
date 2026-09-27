@@ -1,1 +1,386 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+    <stop offset="0%" stop-color="#070809"/>
+    <stop offset="55%" stop-color="#0B0F0D"/>
+    <stop offset="100%" stop-color="#101711"/>
+  </linearGradient>
+
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#B6E36A" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#B6E36A" stop-opacity="0"/>
+  </radialGradient>
+
+  <filter id="blur">
+    <feGaussianBlur stdDeviation="5"/>
+  </filter>
+
+</defs>
+
+
+<!-- BACKGROUND -->
+
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+
+<!-- SUBTLE GRID -->
+
+<g opacity="0.035">
+
+  <path d="M0 40H1200"/>
+  <path d="M0 80H1200"/>
+  <path d="M0 120H1200"/>
+  <path d="M0 160H1200"/>
+  <path d="M0 200H1200"/>
+  <path d="M0 240H1200"/>
+  <path d="M40 0V300"/>
+  <path d="M80 0V300"/>
+  <path d="M120 0V300"/>
+  <path d="M160 0V300"/>
+  <path d="M200 0V300"/>
+
+</g>
+
+
+<!-- LEFT ACCENT -->
+
+<rect
+x="76"
+y="86"
+width="3"
+height="122"
+rx="2"
+fill="#B6E36A"/>
+
+
+<!-- NAME -->
+
+<text
+x="108"
+y="128"
+fill="#F2F4F2"
+font-family="Arial, Helvetica, sans-serif"
+font-size="43"
+font-weight="700"
+letter-spacing="2">
+
+APOORVA BHARDWAJ
+
+</text>
+
+
+<!-- PERSONAL LINE -->
+
+<text
+x="110"
+y="166"
+fill="#B5BCB6"
+font-family="Arial, Helvetica, sans-serif"
+font-size="16">
+
+Curious about how things work. Building to find out.
+
+</text>
+
+
+<!-- TECH LINE -->
+
+<text
+x="110"
+y="199"
+fill="#A8D961"
+font-family="Arial, Helvetica, sans-serif"
+font-size="11"
+font-weight="600"
+letter-spacing="3">
+
+SOFTWARE • AI • DATA • PHYSICS
+
+</text>
+
+
+<!-- ================================= -->
+<!-- ORION -->
+<!-- ================================= -->
+
+<g stroke="#A8D961"
+stroke-width="1"
+stroke-opacity="0.25"
+fill="none">
+
+
+<!-- SHOULDER -->
+
+<path d="M875 79 L938 103"/>
+
+<path d="M875 79 L849 111"/>
+
+
+<!-- SHOULDERS → BELT -->
+
+<path d="M938 103 L934 135"/>
+
+<path d="M849 111 L877 143"/>
+
+
+<!-- BELT -->
+
+<path d="M877 143 L905 139 L934 135"/>
+
+
+<!-- BODY -->
+
+<path d="M877 143 L858 199"/>
+
+<path d="M934 135 L970 201"/>
+
+<path d="M858 199 L914 222 L970 201"/>
+
+
+<!-- SWORD -->
+
+<path d="M905 139 L901 174 L914 191"/>
+
+</g>
+
+
+<!-- ================================= -->
+<!-- ORION STARS -->
+<!-- ================================= -->
+
+<!-- BETELGEUSE -->
+
+<circle cx="875" cy="79" r="4"
+fill="#D9EFA8">
+
+<animate
+attributeName="opacity"
+values="0.65;1;0.65"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- BELLATRIX -->
+
+<circle cx="938" cy="103" r="3"
+fill="#C8E98A">
+
+<animate
+attributeName="opacity"
+values="0.5;0.95;0.5"
+dur="3.2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- MINTAKA -->
+
+<circle cx="877" cy="143" r="3"
+fill="#B6E36A">
+
+<animate
+attributeName="opacity"
+values="0.55;1;0.55"
+dur="3.8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- ALNILAM -->
+
+<circle cx="905" cy="139" r="3.5"
+fill="#E0F2C0">
+
+<animate
+attributeName="opacity"
+values="0.7;1;0.7"
+dur="4.5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- ALNITAK -->
+
+<circle cx="934" cy="135" r="3"
+fill="#B6E36A">
+
+<animate
+attributeName="opacity"
+values="0.5;1;0.5"
+dur="3.5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- SAIPH -->
+
+<circle cx="858" cy="199" r="3"
+fill="#C8E98A">
+
+<animate
+attributeName="opacity"
+values="0.6;1;0.6"
+dur="4.2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- RIGEL -->
+
+<circle cx="970" cy="201" r="4"
+fill="#E0F2C0">
+
+<animate
+attributeName="opacity"
+values="0.65;1;0.65"
+dur="5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- ================================= -->
+<!-- ORION NEBULA -->
+<!-- ================================= -->
+
+<circle
+cx="901"
+cy="174"
+r="15"
+fill="url(#glow)"
+filter="url(#blur)">
+
+<animate
+attributeName="opacity"
+values="0.25;0.65;0.25"
+dur="5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle
+cx="901"
+cy="174"
+r="2"
+fill="#B6E36A">
+
+
+<animate
+attributeName="r"
+values="1.5;2.5;1.5"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- ================================= -->
+<!-- BACKGROUND STARS -->
+<!-- ================================= -->
+
+<g fill="#FFFFFF">
+
+<circle cx="812" cy="69" r="1">
+<animate attributeName="opacity"
+values="0.15;0.6;0.15"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="850" cy="53" r="1">
+<animate attributeName="opacity"
+values="0.4;0.1;0.4"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="916" cy="61" r="1">
+<animate attributeName="opacity"
+values="0.2;0.7;0.2"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="984" cy="82" r="1">
+<animate attributeName="opacity"
+values="0.5;0.15;0.5"
+dur="3.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1018" cy="126" r="1">
+<animate attributeName="opacity"
+values="0.15;0.55;0.15"
+dur="4.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1028" cy="177" r="1">
+<animate attributeName="opacity"
+values="0.4;0.1;0.4"
+dur="3.2s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+
+<!-- LABEL -->
+
+<text
+x="1015"
+y="244"
+fill="#535B55"
+font-family="monospace"
+font-size="8"
+letter-spacing="2">
+
+ORION / 01
+
+</text>
+
+
+<!-- DETAILS -->
+
+<path
+d="M980 48H1095"
+stroke="#FFFFFF"
+stroke-opacity="0.06"/>
+
+<circle
+cx="1095"
+cy="48"
+r="2"
+fill="#A8D961"/>
+
+
+<path
+d="M76 255H330"
+stroke="#FFFFFF"
+stroke-opacity="0.06"/>
+
+
+<!-- BORDER -->
+
+<rect
+x="1"
+y="1"
+width="1198"
+height="298"
+rx="17"
+fill="none"
+stroke="#FFFFFF"
+stroke-opacity="0.07"/>
+
+</svg>

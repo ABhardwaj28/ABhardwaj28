@@ -93,3 +93,25 @@
 </div>
 
 <br>
+
+<!-- FEATURED PROJECTS -->
+
+<br>
+
+<div align="center">
+
+<sub>SELECTED PROJECTS</sub>
+
+<br><br>
+
+<a href="https://github.com/ABhardwaj28/F1-project">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ABhardwaj28&repo=F1-project&hide_border=true&bg_color=00000000&title_color=A8D961&text_color=7F897F&icon_color=A8D961"
+    width="420"
+    alt="F1 Analytics Dashboard"
+  />
+</a>
+
+</div>
+
+<br>

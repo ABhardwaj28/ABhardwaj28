@@ -8,22 +8,20 @@
 
 <div align="center">
 
-<p style="font-size: 15px; color: #9FA79F;">
-  I have a lot of questions. Building is how I find answers.
-</p>
-
-<p style="font-size: 13px; color: #777F78;">
-  I like understanding what's happening underneath the abstraction.
-</p>
-
-<p style="font-size: 13px; color: #A8D961;">
-  Curiosity → rabbit hole → project.
-</p>
+<sub><i>I have a lot of questions. Building is how I find answers.</i></sub>
 
 <br>
 
+<sub>I like understanding what's happening underneath the abstraction.</sub>
+
+<br><br>
+
+<sub>Curiosity → rabbit hole → project.</sub>
+
+<br><br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=7F897F&center=true&vCenter=true&width=560&height=30&lines=theory+%E2%86%92+code+%E2%86%92+simulation+%E2%86%92+something+that+actually+works"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=3500&pause=1200&color=687269&center=true&vCenter=true&width=620&height=24&lines=theory+%E2%86%92+code+%E2%86%92+simulation+%E2%86%92+something+that+works"
   alt="Currently exploring"
 />
 

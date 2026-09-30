@@ -117,7 +117,7 @@ Motorsport analytics dashboard built around race telemetry, lap-time data, drive
 
 <br>
 
-<a href="https://github.com/ABhardwaj28/F1-project">
+<a href="https://abhardwaj28.github.io/F1-telemetery-site/">
 View project →
 </a>
 

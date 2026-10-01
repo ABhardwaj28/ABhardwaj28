@@ -99,8 +99,6 @@
 
 <sub>SELECTED PROJECTS</sub>
 
-<br><br>
-
 <table>
 <tr>
 
@@ -195,10 +193,7 @@ View project →
 
 </div>
 
-<br>
 <!-- ACHIEVEMENTS -->
-
-<br>
 
 <div align="center">
 

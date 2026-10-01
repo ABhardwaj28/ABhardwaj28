@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img src="./assets/github-header.svg" width="100%">
 
@@ -22,7 +22,6 @@
 </div>
 
 <br>
-
 
 <!-- TECH STACK -->
 
@@ -73,8 +72,6 @@
 <div align="center">
 
 <sub>GITHUB ACTIVITY</sub>
-
-<br><br>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABhardwaj28&theme=github_dark"

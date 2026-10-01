@@ -183,8 +183,6 @@ View project →
 
 <sub>CONTRIBUTION FLOW</sub>
 
-<br><br>
-
 <img
   src="https://raw.githubusercontent.com/ABhardwaj28/ABhardwaj28/output/github-snake-dark.svg"
   width="100%"
@@ -198,8 +196,6 @@ View project →
 <div align="center">
 
 <sub>ACHIEVEMENTS</sub>
-
-<br><br>
 
 <table>
 <tr>

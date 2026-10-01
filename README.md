@@ -235,8 +235,6 @@ Programming Workshops
 
 <sub>CURRENTLY BUILDING</sub>
 
-<br><br>
-
 <code>F1 telemetry & performance analytics</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <code>AI Applications</code>
